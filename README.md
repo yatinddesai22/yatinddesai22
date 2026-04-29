@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=M.Tech+Cyber+Security+Student+%F0%9F%8E%93;CEH+v13+Certified+%F0%9F%94%90;Ethical+Hacker+%7C+Security+Researcher;Digital+Twin+%7C+IoT+Security+Enthusiast;Building+Secure+Systems+for+6G+Era)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=M.Tech+Cyber+Security+%40+MIT-WPU+Pune;CEH+v13+Certified+Ethical+Hacker;Lightweight+Cryptography+Researcher;Digital+Forensics+%7C+IoT+Security+Enthusiast;Building+Secure+Systems+for+Tomorrow)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,21 +20,24 @@
 $ cat /etc/profile.d/yatin.sh
 
 Name     : Yatin Desai
-Role     : M.Tech Cyber Security Student
-Cert     : CEH v13 (Certified Ethical Hacker)
-Focus    : AI-driven Security | IoT | 6G Networks
-Email    : vishalinjewar.pcs@gmail.com
-Status   : Always learning, always hacking (ethically)
+Location : Pune, India
+Degree   : M.Tech CSE (Cyber Security) @ MIT-WPU
+           CGPA: 8.05
+Cert     : CEH v13 — EC-Council
+Research : Lightweight Cryptography for IoT
+           Digital Forensics | Penetration Testing
+Intern   : Persistent Systems Ltd. (2023)
+Status   : Securing systems, one exploit at a time
 ```
 
 ### `ls -la /interests/`
 
 - 🔐 **Ethical Hacking & Penetration Testing**
-- 🤖 **AI/ML in Cybersecurity**
-- 🌐 **IoT & 6G Network Security**
-- 🔗 **Blockchain for Access Control**
-- 🛡️ **Zero Trust & ABAC Architectures**
-- 🕵️ **Digital Forensics & Threat Intelligence**
+- 🕵️ **Digital Forensics & Incident Response**
+- 🔬 **Lightweight Cryptography for IoT**
+- 🤖 **AI/ML for Cyber Security**
+- 🌐 **IoT & Industrial Security (Industry 4.0)**
+- 🛡️ **Secure Coding & Vulnerability Research**
 
 <br clear="right"/>
 
@@ -52,21 +55,23 @@ Status   : Always learning, always hacking (ethically)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004488?style=for-the-badge&logo=nmap&logoColor=white)
 
-**Development**
+**Programming**
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Infrastructure & AI**
+**Tools & Platforms**
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
 
@@ -76,12 +81,42 @@ Status   : Always learning, always hacking (ethically)
 
 <div align="center">
 
-| Badge | Certification | Issuer | Status |
-|:---:|:---|:---|:---:|
-| 🏆 | **Certified Ethical Hacker (CEH v13)** | EC-Council | ✅ Active |
-| 🎓 | **M.Tech — Cyber Security** | University | 📖 In Progress |
+| Certification | Issuer | Status |
+|:---|:---|:---:|
+| **Certified Ethical Hacker (CEH v13)** | EC-Council | ✅ Active |
+| **Advanced C++ Training** | Spoken Tutorial — IIT Bombay | ✅ Done |
+| **C Training** | Spoken Tutorial — IIT Bombay | ✅ Done |
+| **The Joy of Computing using Python** | NPTEL — IIT Madras | ✅ Done |
+| **Introduction to Industry 4.0 & Industrial IoT** | NPTEL — IIT Kharagpur | ✅ Done |
+| **Enhancing Soft Skills and Personality** | NPTEL — IIT Kanpur | ✅ Done |
+| **M.Tech — CSE (Cyber Security)** | MIT-WPU, Pune | 📖 In Progress |
 
 </div>
+
+---
+
+## `ls /projects/`
+
+### 🔍 Malicious URL Detection System &nbsp;`Python · Machine Learning`
+- ML-based classifier to detect malicious URLs using lexical and host-based features
+- Trained on Kaggle datasets — achieved **90%+ detection accuracy**
+- Prevents phishing attacks by blocking access to suspicious URLs
+
+### 🔐 6G Digital Twin ABAC System &nbsp;`Node.js · Hyperledger Fabric · Python · AI`
+- AI-driven Attribute-Based Access Control for IoT ecosystems
+- Trust formula: `Tt = 0.4×Ht + 0.4×At + 0.2×Ct` with Federated Learning & Eclipse Ditto
+- Published in IEEE / research pipeline
+
+### 🎵 Sound Pool App — Tanpura Generator &nbsp;`Android Studio · Kotlin`
+- Android app for customizable tanpura playback for Indian classical music practice
+- Used by harmonium and tabla practitioners in offline sessions
+
+---
+
+## `cat /publications/research.txt`
+
+> 📄 **"A Comprehensive Survey on Lightweight Cryptographic Algorithms for IoT Security: Challenges and Future Directions"**  
+> *Vidhyayana — International Peer-Reviewed Journal* &nbsp;|&nbsp; **ICSSCC 2025**
 
 ---
 
@@ -99,24 +134,12 @@ Status   : Always learning, always hacking (ethically)
 
 ---
 
-## `nmap --top-projects`
-
-<div align="center">
-
-[![6G Digital Twin](https://github-readme-stats.vercel.app/api/pin/?username=yatinddesai22&repo=6g-digital-twin&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/yatinddesai22/6g-digital-twin)
-
-</div>
-
-> **6G Digital Twin ABAC System** — AI-driven Attribute-Based Access Control for IoT ecosystems using Federated Learning, Hyperledger Fabric, and Eclipse Ditto. Trust formula: `Tt = 0.4×Ht + 0.4×At + 0.2×Ct`
-
----
-
 ## `traceroute --to /connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalinjewar.pcs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatinddesai22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatinddesai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yatinddesai22)
 
 </div>
