@@ -22,7 +22,7 @@ $ cat /etc/profile.d/yatin.sh
 Name     : Yatin Desai
 Location : Pune, India
 Degree   : M.Tech CSE (Cyber Security) @ MIT-WPU
-           CGPA: 8.05
+           CGPA: 8.37
 Cert     : CEH v13 — EC-Council
 Research : Lightweight Cryptography for IoT
            Digital Forensics | Penetration Testing
@@ -89,7 +89,7 @@ Status   : Securing systems, one exploit at a time
 | **The Joy of Computing using Python** | NPTEL — IIT Madras | ✅ Done |
 | **Introduction to Industry 4.0 & Industrial IoT** | NPTEL — IIT Kharagpur | ✅ Done |
 | **Enhancing Soft Skills and Personality** | NPTEL — IIT Kanpur | ✅ Done |
-| **M.Tech — CSE (Cyber Security)** | MIT-WPU, Pune | 📖 In Progress |
+| **M.Tech — CSE (Cyber Security)** | MIT-WPU, Pune | ✅ Done |
 
 </div>
 
