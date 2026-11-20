@@ -118,7 +118,7 @@ Status   : Securing systems, one exploit at a time
 > 📄 **"A Comprehensive Survey on Lightweight Cryptographic Algorithms for IoT Security: Challenges and Future Directions"**  
 > *Vidhyayana — International Peer-Reviewed Journal* &nbsp;|&nbsp; **ICSSCC 2025**
 >
-> **" Intelligent Zero-Trust Access Control for 6G Digital Twins Using Blockchain and Federated Learning"**
+> 📄 **"Intelligent Zero-Trust Access Control for 6G Digital Twins Using Blockchain and Federated Learning"**
 > &nbsp;|&nbsp; **ICSIT Nagpur 2026**
 
 ---
